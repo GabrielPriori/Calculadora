@@ -17,14 +17,13 @@
 - XXX = 30  
 - CCC = 300  
 - MMM = 3000  
-- 
-- Quando escritos à direita de numerais maiores, I, X e C somam-se aos valores dos  primeiros:  
+
+  Quando escritos à direita de numerais maiores, I, X e C somam-se aos valores dos  primeiros:  
 - VIII = 5 + 1 + 1 + 1 = 8  
 - LXII = 50 + 10 + 1 + 1 = 62  
 - CLVIII = 158 MCXX = 1000 + 100 + 10 + 10 = 1120  
 
-- Mas se os numerais I, X e C estiverem à esquerda dos maiores, seus valores são  subtraídos como, por exemplo, em:  
-
+  Mas se os numerais I, X e C estiverem à esquerda dos maiores, seus valores são  subtraídos como, por exemplo, em:  
 - IV = 5 - 1 = 4  
 - IX = 10 - 1 = 9  
 - XC = 100 - 10 = 90  
